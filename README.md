@@ -1,4 +1,4 @@
-# EA ZOO -- a demo for Quantum Genetic Algorithm and Genetic Algorithm
+# EA ZOO -- a demo for Quantum Evolutionary Algorithm(QEA) and Genetic Algorithm(GA)
 
 ## Introduction to Evolutionary Algorithms
 Evolutionary algorithms (EAs) are optimization methods that mimic natural evolution to find high-quality solutions for 
